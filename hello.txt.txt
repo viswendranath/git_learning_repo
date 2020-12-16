@@ -9,3 +9,9 @@ Repeatable Seventh line
 Repeatable Eigth line
 Repeatable Ningth line
 Repeatable Tenth line
+
+Clue line
+Repeatable Seventh line
+Repeatable Eigth line
+Repeatable Ningth line
+Repeatable Tenth line
